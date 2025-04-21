@@ -1,0 +1,11 @@
+D:\Algo\src\FileSystemAnalyzer.Core\bin\Debug\net8.0\FileSystemAnalyzer.Core.deps.json
+D:\Algo\src\FileSystemAnalyzer.Core\bin\Debug\net8.0\FileSystemAnalyzer.Core.dll
+D:\Algo\src\FileSystemAnalyzer.Core\bin\Debug\net8.0\FileSystemAnalyzer.Core.pdb
+D:\Algo\src\FileSystemAnalyzer.Core\obj\Debug\net8.0\FileSystemAnalyzer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algo\src\FileSystemAnalyzer.Core\obj\Debug\net8.0\FileSystemAnalyzer.Core.AssemblyInfoInputs.cache
+D:\Algo\src\FileSystemAnalyzer.Core\obj\Debug\net8.0\FileSystemAnalyzer.Core.AssemblyInfo.cs
+D:\Algo\src\FileSystemAnalyzer.Core\obj\Debug\net8.0\FileSystemAnalyzer.Core.csproj.CoreCompileInputs.cache
+D:\Algo\src\FileSystemAnalyzer.Core\obj\Debug\net8.0\FileSystemAnalyzer.Core.dll
+D:\Algo\src\FileSystemAnalyzer.Core\obj\Debug\net8.0\refint\FileSystemAnalyzer.Core.dll
+D:\Algo\src\FileSystemAnalyzer.Core\obj\Debug\net8.0\FileSystemAnalyzer.Core.pdb
+D:\Algo\src\FileSystemAnalyzer.Core\obj\Debug\net8.0\ref\FileSystemAnalyzer.Core.dll
